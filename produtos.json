@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "title": "Batom Líquido Matte",
+    "description": "Batom vermelho matte de longa duração, 12h de fixação.",
+    "price": 44.90,
+    "imageSrc": "/produtos/batom-vermelho.png",
+    "destaque": true
+  },
+  {
+    "id": 2,
+    "title": "Base Matte",
+    "description": "Base de alta cobertura com acabamento natural e ácido hialurônico.",
+    "price": 89.90,
+    "imageSrc": "/produtos/base.png",
+    "destaque": false
+  },
+  {
+    "id": 3,
+    "title": "Paleta de Sombras Glam",
+    "description": "Paleta com 12 cores ultra pigmentadas entre cintilantes e opacas.",
+    "price": 120.00,
+    "imageSrc": "/produtos/paleta-sombras-glam.png",
+    "destaque": false
+  },
+  {
+    "id": 4,
+    "title": "Máscara de Cílios Volume",
+    "description": "Efeito volume russo com aplicador curvado, resistente à água.",
+    "price": 49.90,
+    "imageSrc": "/produtos/rimel.png",
+    "destaque": false
+  },
+  {
+    "id": 5,
+    "title": "Iluminador Compacto",
+    "description": "Pó iluminador com partículas de pérola para brilho radiante.",
+    "price": 65.50,
+    "imageSrc": "/produtos/iluminador.png",
+    "destaque": true
+  },
+  {
+    "id": 6,
+    "title": "Corretivo Líquido",
+    "description": "Corretivo cremoso que camufla olheiras sem craquelar a pele.",
+    "price": 38.00,
+    "imageSrc": "/produtos/corretivo-medio.png",
+    "destaque": true
+  },
+  {
+    "id": 7,
+    "title": "Delineador em Caneta",
+    "description": "Ponta fina para traçado preciso e secagem rápida.",
+    "price": 42.90,
+    "imageSrc": "/produtos/delineador-preto.png",
+    "destaque": false
+  },
+  {
+    "id": 8,
+    "title": "Blush em Pó",
+    "description": "Textura aveludada com cor pêssego suave e natural.",
+    "price": 39.90,
+    "imageSrc": "/produtos/blush.png",
+    "destaque": false
+  },
+  {
+    "id": 9,
+    "title": "Gloss Labial Incolor",
+    "description": "Brilho intenso com efeito espelhado e hidratação profunda.",
+    "price": 29.90,
+    "imageSrc": "/produtos/gloss-incolor.png",
+    "destaque": false
+  },
+  {
+    "id": 10,
+    "title": "Pó Compacto Matte",
+    "description": "Controla a oleosidade e sela a maquiagem por muito mais tempo.",
+    "price": 49.90,
+    "imageSrc": "/produtos/po-compacto.png",
+    "destaque": false
+  },
+  {
+    "id": 11,
+    "title": "Primer Facial",
+    "description": "Minimiza a aparência dos poros e linhas finas, toque aveludado.",
+    "price": 72.00,
+    "imageSrc": "/produtos/primer.png",
+    "destaque": false
+  },
+  {
+    "id": 12,
+    "title": "Bruma Fixadora",
+    "description": "Fixa a maquiagem com acabamento luminoso e refrescante.",
+    "price": 45.00,
+    "imageSrc": "/produtos/bruma-fixadora.png",
+    "destaque": false
+  },
+  {
+    "id": 13,
+    "title": "Lapiseira de Sobrancelha",
+    "description": "Ponta chanfrada para preenchimento preciso com escovinha acoplada.",
+    "price": 34.90,
+    "imageSrc": "/produtos/lapiseira-sobrancelha.png",
+    "destaque": false
+  },
+  {
+    "id": 14,
+    "title": "Pó Translúcido Solto",
+    "description": "Pó ultrafino ideal para a técnica baking, não estoura no flash.",
+    "price": 58.90,
+    "imageSrc": "/produtos/po-translucido.jpg",
+    "destaque": false
+  },
+  {
+    "id": 15,
+    "title": "Lip Tint Hidratante",
+    "description": "Efeito natural de saúde para lábios e bochechas, sabor frutas vermelhas.",
+    "price": 24.90,
+    "imageSrc": "/produtos/lip-tint-red.jpg",
+    "destaque": false
+  },
+  {
+    "id": 16,
+    "title": "Contorno em Bastão",
+    "description": "Fácil aplicação e esfumado perfeito para esculpir o rosto.",
+    "price": 62.00,
+    "imageSrc": "/produtos/contorno-bastao.jpg",
+    "destaque": false
+  },
+  {
+    "id": 17,
+    "title": "Lápis de Olho Preto",
+    "description": "Super preto, macio e resistente à água para a linha d'água.",
+    "price": 19.90,
+    "imageSrc": "/produtos/lapis-olho-preto.jpg",
+    "destaque": false
+  },
+  {
+    "id": 18,
+    "title": "Paleta de Contorno e Blush",
+    "description": "Quatro tons versáteis para contornar, bronzear e iluminar.",
+    "price": 98.00,
+    "imageSrc": "/produtos/paleta-contorno.jpg",
+    "destaque": false
+  },
+  {
+    "id": 19,
+    "title": "Gel Incolor para Sobrancelhas",
+    "description": "Alinha e fixa os fios no lugar o dia todo com efeito Brow Lamination.",
+    "price": 32.90,
+    "imageSrc": "/produtos/gel-sobrancelhas.jpg",
+    "destaque": false
+  },
+  {
+    "id": 20,
+    "title": "Água Micelar de Limpeza",
+    "description": "Limpa, demaquila, purifica e suaviza a pele sem esforço.",
+    "price": 36.50,
+    "imageSrc": "/produtos/agua-micelar.jpg",
+    "destaque": false
+  },
+  {
+    "id": 21,
+    "title": "Delineador em Gel",
+    "description": "Pigmentação intensa e traço firme de longa duração.",
+    "price": 49.90,
+    "imageSrc": "/produtos/delineador-gel.jpg",
+    "destaque": false
+  },
+  {
+    "id": 22,
+    "title": "Blush Líquido",
+    "description": "Fórmula leve de fácil espalhabilidade para um efeito corado natural.",
+    "price": 46.00,
+    "imageSrc": "/produtos/blush-liquido-pink.jpg",
+    "destaque": false
+  },
+  {
+    "id": 23,
+    "title": "Esponja de Maquiagem",
+    "description": "Garante acabamento uniforme e sem marcas, expande quando molhada.",
+    "price": 22.90,
+    "imageSrc": "/produtos/esponja-make.jpg",
+    "destaque": false
+  },
+  {
+    "id": 24,
+    "title": "Batom Cremoso",
+    "description": "Textura confortável com alta cobertura e hidratação pros lábios.",
+    "price": 39.90,
+    "imageSrc": "/produtos/batom-cremoso-nude.jpg",
+    "destaque": false
+  },
+  {
+    "id": 25,
+    "title": "Sombra Líquida Glitter",
+    "description": "Glitter multidimensional com secagem rápida e sem resíduos.",
+    "price": 48.50,
+    "imageSrc": "/produtos/sombra-glitter-gold.jpg",
+    "destaque": false
+  },
+  {
+    "id": 26,
+    "title": "Kit de Pincéis Profissionais",
+    "description": "Conjunto com 7 pincéis essenciais para face e olhos.",
+    "price": 149.90,
+    "imageSrc": "/produtos/kit-pinceis.jpg",
+    "destaque": false
+  },
+  {
+    "id": 27,
+    "title": "Demaquilante Bifásico",
+    "description": "Remove maquiagem à prova d'água sem agredir a região dos olhos.",
+    "price": 43.00,
+    "imageSrc": "/produtos/demaquilante-bifasico.jpg",
+    "destaque": false
+  },
+  {
+    "id": 28,
+    "title": "Iluminador Líquido",
+    "description": "Gotas iluminadoras concentradas para um glow radiante.",
+    "price": 68.00,
+    "imageSrc": "/produtos/iluminador-liquido.jpg",
+    "destaque": false
+  },
+  {
+    "id": 29,
+    "title": "Gloss Plump",
+    "description": "Efeito de aumento labial imediato com sensação refrescante.",
+    "price": 52.90,
+    "imageSrc": "/produtos/gloss-plump.jpg",
+    "destaque": false
+  },
+  {
+    "id": 30,
+    "title": "Pó Bronzeador",
+    "description": "Proporciona um efeito queimado de sol com acabamento acetinado.",
+    "price": 56.00,
+    "imageSrc": "/produtos/bronzer-sun.jpg",
+    "destaque": false
+  },
+  {
+    "id": 31,
+    "title": "Lápis de Boca Nude",
+    "description": "Ideal para contornar e aumentar a durabilidade do batom.",
+    "price": 21.90,
+    "imageSrc": "/produtos/lapis-boca-nude.jpg",
+    "destaque": false
+  },
+  {
+    "id": 32,
+    "title": "Cleansing Oil",
+    "description": "Óleo de limpeza facial que derrete toda a maquiagem e impurezas.",
+    "price": 79.90,
+    "imageSrc": "/produtos/cleansing-oil.jpg",
+    "destaque":false
+  },
+  {
+    "id": 33,
+    "title": "Paleta de Sombras Neutras",
+    "description": "9 cores clássicas para looks versáteis do dia a dia à noite.",
+    "price": 85.00,
+    "imageSrc": "/produtos/paleta-neutra.jpg",
+    "destaque": false
+  },
+  {
+    "id": 34,
+    "title": "Máscara Incolor para Cílios",
+    "description": "Define os cílios discretamente e organiza os fios da sobrancelha.",
+    "price": 28.00,
+    "imageSrc": "/produtos/mascara-incolor.jpg",
+    "destaque": false
+  },
+  {
+    "id": 35,
+    "title": "BB Cream 5 em 1",
+    "description": "Uniformiza, hidrata, ilumina, tem ação antioleosidade e FPS 30.",
+    "price": 64.90,
+    "imageSrc": "/produtos/bb-cream.jpg",
+    "destaque": false
+  },
+  {
+    "id": 36,
+    "title": "Corretivo Colorido Lilás",
+    "description": "Camufla manchas amareladas e olheiras amarronzadas.",
+    "price": 35.00,
+    "imageSrc": "/produtos/corretivo-lilas.jpg",
+    "destaque": false
+  },
+  {
+    "id": 37,
+    "title": "Corretivo Colorido Verde",
+    "description": "Neutraliza perfeitamente a vermelhidão de acnes e inflamações.",
+    "price": 35.00,
+    "imageSrc": "/produtos/corretivo-verde.jpg",
+    "destaque": false
+  },
+  {
+    "id": 38,
+    "title": "Pincel para Base Duo Fiber",
+    "description": "Cerdas sintéticas macias para uma aplicação polida e sem marcas.",
+    "price": 39.90,
+    "imageSrc": "/produtos/pincel-duo-fiber.jpg",
+    "destaque": false
+  },
+  {
+    "id": 39,
+    "title": "Pincel de Esfumar Cônico",
+    "description": "Formato perfeito para criar transições suaves no côncavo.",
+    "price": 24.90,
+    "imageSrc": "/produtos/pincel-esfumar.jpg",
+    "destaque": false
+  },
+  {
+    "id": 40,
+    "title": "Lip Balm de Coco",
+    "description": "Hidratante labial intensivo com manteiga de karité e aroma suave.",
+    "price": 18.50,
+    "imageSrc": "/produtos/lip-balm-coco.jpg",
+    "destaque": false
+  },
+  {
+    "id": 41,
+    "title": "Fixador de Maquiagem em Spray",
+    "description": "A jato seco, garante fixação extrema por até 16 horas sem derreter.",
+    "price": 55.00,
+    "imageSrc": "/produtos/spray-fixador.jpg",
+    "destaque": false
+  },
+  {
+    "id": 42,
+    "title": "Sombra Uno Cintilante",
+    "description": "Pigmento compacto com alta concentração de brilho e reflexo.",
+    "price": 27.90,
+    "imageSrc": "/produtos/sombra-uno-silver.jpg",
+    "destaque": false
+  },
+  {
+    "id": 43,
+    "title": "Delineador Colorido Azul",
+    "description": "Traga cor ao olhar com este delineador líquido de alta pigmentação.",
+    "price": 36.90,
+    "imageSrc": "/produtos/delineador-azul.jpg",
+    "destaque": false
+  },
+  {
+    "id": 44,
+    "title": "Glitter Solto Corporal",
+    "description": "Brilho ecológico e biodegradável para pontos de destaque.",
+    "price": 22.00,
+    "imageSrc": "/produtos/glitter-solto.jpg",
+    "destaque": false
+  },
+  {
+    "id": 45,
+    "title": "Paleta de Glitter Prensado",
+    "description": "6 variações de glitters que dispensam o uso de cola para aplicação.",
+    "price": 74.90,
+    "imageSrc": "/produtos/paleta-glitter.jpg",
+    "destaque": false
+  },
+  {
+    "id": 46,
+    "title": "Limpador de Pincéis Express",
+    "description": "Fluido higienizador com secagem rápida para limpeza instantânea.",
+    "price": 31.90,
+    "imageSrc": "/produtos/limpador-pinceis.jpg",
+    "destaque": false
+  },
+  {
+    "id": 47,
+    "title": "Sabonete Primer Facial",
+    "description": "Prepara a pele para receber a maquiagem, controlando a oleosidade.",
+    "price": 26.00,
+    "imageSrc": "/produtos/sabonete-primer.jpg",
+    "destaque": false
+  },
+  {
+    "id": 48,
+    "title": "Sérum Hidratante Pré-Make",
+    "description": "Nutrição profunda com textura leve, ideal para evitar craquelamento.",
+    "price": 69.90,
+    "imageSrc": "/produtos/serum-pre-make.jpg",
+    "destaque": false
+  },
+  {
+    "id": 49,
+    "title": "Curvex de Cílios",
+    "description": "Modelador de cílios em aço inox com almofada de silicone extra.",
+    "price": 19.90,
+    "imageSrc": "/produtos/curvex.jpg",
+    "destaque": false
+  },
+  {
+    "id": 50,
+    "title": "Maleta de Maquiagem Compacta",
+    "description": "Organização perfeita e segura para transportar seus produtos favoritos.",
+    "price": 189.90,
+    "imageSrc": "/produtos/maleta-make.jpg",
+    "destaque": false
+  }
+]
