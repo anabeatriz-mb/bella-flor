@@ -15,7 +15,7 @@ export default function Home() {
 
       {/* Título da Seção */}
       <div className="text-center my-10">
-        <h1 className="text-5xl md:text-6xl text-[#8f584e] font-bold tracking-wide">
+        <h1 className="text-3xl sm:text-4xl md:text-6xl text-[#8f584e] font-bold tracking-wide">
           Produtos em destaque
         </h1>
         <p className="text-[#C88E82] mt-2">
@@ -26,7 +26,7 @@ export default function Home() {
       {/* Grid Responsivo para os Cards:
           1 coluna no celular | 2 colunas no tablet | 3 colunas em telas grandes
       */}
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-6xl mx-auto px-4">
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-6xl mx-auto px-4 justify-items-center">
 
         {/* Card 1: Blush */}
         <CardProduto

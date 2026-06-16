@@ -3,17 +3,17 @@ import produtos from "../../../produtos.json"
 
 export default function Produtos() {
   return (
-    <div className="w-full min-h-screen bg-[#FDF9F7] pb-24">
-      <div className="text-center py-20 px-4">
-        <h1 className="text-5xl md:text-6xl text-[#B89B67] font-light tracking-wide">
+    <div className="w-full min-h-screen bg-[#FDF9F7] pb-24 px-4 sm:px-6 lg:px-8">
+      <div className="text-center py-12 md:py-20 px-4">
+        <h1 className="text-3xl sm:text-4xl md:text-6xl text-[#B89B67] font-light tracking-wide">
           Produtos Bella Flor
         </h1>
-        <p className="mt-4 text-lg text-[#8A6F63] italic">
+        <p className="mt-4 text-base md:text-lg text-[#8A6F63] italic">
           Descubra nossos items
         </p>
       </div>
 
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-12 max-w-7xl mx-auto px-10">
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-12 max-w-7xl mx-auto px-2 sm:px-4 md:px-10 justify-items-center">
         {produtos.map((produto) => (
           <CardProduto
             key={produto.id}
