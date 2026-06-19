@@ -1,36 +1,180 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌸 Bella Flor - Loja Virtual de Maquiagens
 
-## Getting Started
+## Sobre o Projeto
 
-First, run the development server:
+A **Bella Flor** é uma plataforma web desenvolvida para oferecer uma experiência elegante, intuitiva e moderna na apresentação e comercialização de produtos de maquiagem.
+
+O sistema foi criado com foco em usabilidade, identidade visual sofisticada e navegação responsiva, permitindo que clientes conheçam os produtos da marca de forma prática em qualquer dispositivo.
+
+---
+
+## Objetivo do Software
+
+O objetivo principal da Bella Flor é disponibilizar um catálogo digital de produtos de maquiagem, proporcionando uma experiência agradável para os usuários e fortalecendo a presença digital da marca.
+
+A plataforma busca:
+
+* Apresentar os produtos de forma organizada e atrativa;
+* Destacar os principais itens da loja;
+* Facilitar o contato entre clientes e empresa;
+* Oferecer uma navegação responsiva para computadores, tablets e smartphones;
+* Reforçar a identidade visual da marca Bella Flor.
+
+---
+
+## Funcionalidades
+
+### 🏠 Página Inicial
+
+* Carrossel de banners promocionais;
+* Exibição de produtos em destaque;
+* Layout moderno e responsivo.
+
+### 💄 Catálogo de Produtos
+
+* Listagem completa dos produtos;
+* Exibição de imagem, descrição e preço;
+* Destaque visual para produtos selecionados.
+
+### 📞 Página de Contato
+
+* Informações de contato da empresa;
+* Formulário para envio de mensagens;
+* Integração com mapa para localização da loja;
+* Links para redes sociais.
+
+### 📱 Responsividade
+
+* Adaptação para diferentes tamanhos de tela;
+* Experiência otimizada para dispositivos móveis.
+
+---
+
+## Tecnologias Utilizadas
+
+### Front-end
+
+* Next.js
+* React
+* TypeScript
+* Tailwind CSS
+* Shadcn/UI
+* Lucide React
+
+### Ferramentas Complementares
+
+* Embla Carousel
+* Dynamic Imports do Next.js
+* Leaflet (Mapa)
+
+---
+
+## Valores da Bella Flor
+
+A Bella Flor foi idealizada com base nos seguintes valores:
+
+### ✨ Beleza com Elegância
+
+Valorizamos a beleza como forma de expressão pessoal, oferecendo produtos apresentados de maneira sofisticada e acolhedora.
+
+### 💖 Confiança
+
+Buscamos transmitir credibilidade e segurança em cada interação com nossos clientes.
+
+### 🌷 Delicadeza
+
+Nossa identidade visual e comunicação refletem cuidado, atenção aos detalhes e sensibilidade.
+
+### 🤝 Respeito ao Cliente
+
+Priorizamos uma experiência simples, acessível e agradável para todos os usuários.
+
+### 🚀 Inovação
+
+Utilizamos tecnologias modernas para proporcionar uma navegação rápida, intuitiva e responsiva.
+
+---
+
+## Estrutura do Projeto
+
+```bash
+src/
+│
+├── app/
+│   ├── page.tsx
+│   ├── produtos/
+│   └── contato/
+│
+├── components/
+│   ├── Header.tsx
+│   ├── Footer.tsx
+│   ├── CardProduto.tsx
+│   ├── Carrossel.tsx
+│   └── MapaContato.tsx
+│
+└── public/
+    ├── produtos/
+    ├── carrossel/
+    └── logo/
+```
+
+---
+
+## Acesso ao Projeto
+
+### 🌐 Aplicação Online
+
+Acesse a versão publicada do projeto através do link:
+
+```txt
+https://bella-flor-rho.vercel.app
+```
+
+### 📂 Repositório GitHub
+
+O código-fonte completo está disponível em:
+
+```txt
+https://github.com/anabeatriz-mb/bella-flor.git
+```
+
+---
+
+## Como Executar Localmente
+
+Clone o repositório:
+
+```bash
+git clone https://github.com/anabeatriz-mb/bella-flor.git
+```
+
+Acesse a pasta do projeto:
+
+```bash
+cd maqui-ana
+```
+
+Instale as dependências:
+
+```bash
+npm install
+```
+
+Execute o projeto:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Abra no navegador:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```txt
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
+## Desenvolvido por Ana Beatriz 
 
-To learn more about Next.js, take a look at the following resources:
+Projeto acadêmico desenvolvido para demonstrar conhecimentos em desenvolvimento web moderno utilizando React, Next.js e Tailwind CSS.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+© Bella Flor — Todos os direitos reservados.
